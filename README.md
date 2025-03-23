@@ -23,6 +23,12 @@ Both implementations allow users to upload an image and ask questions about it. 
 
 ---
 
+
+## Live Demo
+You can test the application live at:  
+[Visual QNA qith image](https://huggingface.co/spaces/Tahir5/Visual-QNA)
+
+
 ## Installation & Setup
 ### 1. Clone the Repository
 ```bash
